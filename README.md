@@ -33,12 +33,12 @@ All that is right now stopped by tests. We have to do some unit and integrated t
 ### Example communication between mssc 
 ![Example screenshot](./Screenshots/Visit%20registration.png)
 # Tech_Stack 
-* Java 13
+* Java 17
 * Spring Boot 2 
 * Netflix Eureka
 * DB Postgres
 * JPA / Hibernate 
-* Swagger 2
+* Swagger 
 * ReactJS
 # Screenshots
 ![Example screenshot](./Screenshots/Login.png)
