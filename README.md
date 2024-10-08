@@ -40,14 +40,14 @@ All that is right now stopped by tests. We have to do some unit and integrated t
 * JPA / Hibernate 
 * Swagger 
 * ReactJS
-# Screenshots
+<!-- # Screenshots
 ![Example screenshot](./Screenshots/Login.png)
 ![Example screenshot](./Screenshots/Edit.png)
 ![Example screenshot](./Screenshots/Information.png)
 ![Example screenshot](./Screenshots/Visits.png)
 ![Example screenshot](./Screenshots/Delete.png)
 ![Example screenshot](./Screenshots/DoctorRegistration.png)
-![Example screenshot](./Screenshots/PatientRegistration.png)
+![Example screenshot](./Screenshots/PatientRegistration.png) -->
 
 <!-- ## TODO in progress
 ####Back-End:
