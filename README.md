@@ -49,3 +49,15 @@ All that is right now stopped by tests. We have to do some unit and integrated t
 ![Example screenshot](./Screenshots/DoctorRegistration.png)
 ![Example screenshot](./Screenshots/PatientRegistration.png)
 
+<!-- ## TODO in progress
+####Back-End:
+* doctor's unitests tests and integration tests <--- move here tests from postman 
+* search (kafka || rabit && elasticSearch)
+* statistic mssc in .NET MVC
+* config mssc 
+* rewrite to use faign, hateos  
+
+####Front-End:
+* create documentation about each component and container
+* add new animations when logging in or registration
+* add unit and integration tests -->
