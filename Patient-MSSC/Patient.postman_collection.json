@@ -40,7 +40,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n\t\"email\": \"janusz@kowalski.pl\",\n\t\"password\": \"kowal666\",\n\t\"role\": \"patient\"\n}",
+					"raw": "{\n\t\"email\": \"harsh@123.com\",\n\t\"password\": \"1234\",\n\t\"role\": \"patient\"\n}",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -151,7 +151,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n\t\"email\" : \"janusz@kowalski.pl\",\n\t\"password\" : \"kowal666\"\n}",
+					"raw": "{\n\t\"email\" : \"harsh@123.com\",\n\t\"password\" : \"1234\"\n}",
 					"options": {
 						"raw": {
 							"language": "json"

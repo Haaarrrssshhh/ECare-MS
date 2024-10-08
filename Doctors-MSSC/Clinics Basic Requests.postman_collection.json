@@ -188,7 +188,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n\t\"email\": \"janusz@kowalski.pl\",\n\t\"password\": \"kowal666\",\n\t\"role\": \"doctor\"\n}",
+					"raw": "{\n\t\"email\": \"harsh@123.com\",\n\t\"password\": \"1234\",\n\t\"role\": \"doctor\"\n}",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -298,7 +298,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n\t\"email\": \"janusz@kowalski.pl\",\n\t\"password\": \"kowal666\"\n}",
+					"raw": "{\n\t\"email\": \"harsh@123.com\",\n\t\"password\": \"1234\"\n}",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -339,7 +339,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n\t\"email\": \"janusz@kowalski.pl72\",\n\t\"password\": \"kowal728\",\n\t\"firstName\": \"Janusz[[[\",\n\t\"lastName\": null,\n\t//\"photoUrl\": \"http://www.januszowo.com1\",\n\t\"licence\": \"111-222-333-444-555\"\n}",
+					"raw": "{\n\t\"email\": \"harsh@123.com72\",\n\t\"password\": \"kowal728\",\n\t\"firstName\": \"Janusz[[[\",\n\t\"lastName\": null,\n\t//\"photoUrl\": \"http://www.januszowo.com1\",\n\t\"licence\": \"111-222-333-444-555\"\n}",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -396,7 +396,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n\t\"email\": \"janusz@kowalski.pl72\",\n\t\"password\": \"kowal728\"\n}",
+					"raw": "{\n\t\"email\": \"harsh@123.com72\",\n\t\"password\": \"kowal728\"\n}",
 					"options": {
 						"raw": {
 							"language": "json"

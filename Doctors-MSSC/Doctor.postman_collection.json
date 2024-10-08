@@ -1276,7 +1276,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n\t\"email\": \"janusz@kowalski.pl72\",\n\t\"password\": \"kowal728\",\n\t\"firstName\": \"Janusz[[[\",\n\t\"lastName\": null,\n\t//\"photoUrl\": \"http://www.januszowo.com1\",\n\t\"licence\": \"111-222-333-444-555\"\n}",
+					"raw": "{\n\t\"email\": \"harsh@123.com72\",\n\t\"password\": \"kowal728\",\n\t\"firstName\": \"Janusz[[[\",\n\t\"lastName\": null,\n\t//\"photoUrl\": \"http://www.januszowo.com1\",\n\t\"licence\": \"111-222-333-444-555\"\n}",
 					"options": {
 						"raw": {
 							"language": "json"
